@@ -1,5 +1,8 @@
 _repo: The-Re-Creation-of-Brian-Kent_3265
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wright, Harold Bell
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1146
     wikipedia: http://en.wikipedia.org/wiki/Harold_Bell_Wright
 description: Redemption of a bank robber.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3265#The-Re-Creation-of-Brian-Kent
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2006-06-03'
 gutenberg_type: Text
